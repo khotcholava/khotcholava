@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: akokhocholava@gmail.com
+- 👨🏻 Personal Website: https://khotcholava.dev/ (Currently under construction)
 - 🛩 Telegram: @khotcholava
 - 👨🏻‍💻 LinkedIn: https://www.linkedin.com/in/akaki-khotcholava/
 
