@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khotcholava
 - 👀 I’m interested in Javascript | Typescript
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning @nodejs
 - 📫 Email: akokhocholava@gmail.com
 - 👨🏻 Personal Website: https://khotcholava.dev/ (Currently under construction)
 - 🛩 Telegram: @khotcholava
